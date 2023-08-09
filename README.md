@@ -5,12 +5,11 @@
 </div>  
 
   
-- 🔭 I’m currently working on *statistical modelling in R* 
-- 🌱 I’m currently learning  *python*
-- 👯 I’m looking to collaborate on *data science*
-- 🤔 I’m looking for help with *Machine Learning and deployment*
-- 💬 Ask me about *Data Visualization*
-- 📫 How to reach me: *www.linkedin.com/in/ethel-ogallo-8bb08893/*
+- 🔭 I’m currently working on **statistical modelling in R**
+- 🌱 I’m currently learning  **python**
+- 👯 I’m looking to collaborate on **data science**
+- 🤔 I’m looking for help with **Machine Learning and deployment**
+- 💬 Ask me about **Data Visualization**
 
 
 ## Skills
