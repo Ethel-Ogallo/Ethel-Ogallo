@@ -4,8 +4,13 @@
   <img src="https://media.giphy.com/media/4FQMuOKR6zQRO/giphy.gif" width="480" height="360" />
 </div>  
 
-I am a data enthusiast with a drive to make a meaningful impact through the power of data.Currently, I'm thrilled to be contributing my skills and passion as a Data Science Intern at CEMA, where I'm gaining invaluable real-world experience while further refining my abilities. My role here allows me to collaborate with industry experts, gaining insights into cutting-edge methodologies and technologies that are shaping the future of data analysis.
-With a deep-rooted commitment to turning data-driven insights into actionable strategies, I'm eagerly anticipating the opportunities to apply my skills and contribute to the advancement of data analysis. Together, let's embark on a journey of discovery, innovation, and positive change through the incredible world of data.
+  
+- 🔭 I’m currently working on *statistical modelling in R* 
+- 🌱 I’m currently learning  *python*
+- 👯 I’m looking to collaborate on *data science*
+- 🤔 I’m looking for help with *Machine Learning and deployment*
+- 💬 Ask me about *Data Visualization*
+- 📫 How to reach me: *www.linkedin.com/in/ethel-ogallo-8bb08893/*
 
 
 ## Skills
@@ -21,7 +26,7 @@ With a deep-rooted commitment to turning data-driven insights into actionable st
 
 ## Connect with me:
 <div id="badges">
-  <a href=https://www.linkedin.com/in/ryan-musasia/)>
+  <a href=https://www.linkedin.com/in/ethel-ogallo-8bb08893/)>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
 <!--
