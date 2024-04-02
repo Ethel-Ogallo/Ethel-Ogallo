@@ -1,11 +1,11 @@
 ### Hi there I'm Ethel Ogallo👋
 
 <div align = 'center'>
-  <img src="https://media.giphy.com/media/4FQMuOKR6zQRO/giphy.gif" width="480" height="360" />
+  <img src="https://giphy.com/embed/uizPoFUVU1R2hTLTPF/giphy.gif" width="480" height="360" />
 </div>  
 
-  
-- 🔭 I’m currently working on **statistical modelling in R**
+
+- 🔭 I’m currently working on **spatial  modelling in R**
 - 🌱 I’m currently learning  **python**
 - 👯 I’m looking to collaborate on **data science**
 - 🤔 I’m looking for help with **Machine Learning and deployment**
@@ -17,9 +17,11 @@
 ### Languages
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-FF5733?style=for-the-badge&logo=sql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Tools and Technologies
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![R Shiny](https://img.shields.io/badge/R_Shiny-006400?style=for-the-badge&logo=R&logoColor=white)
 
 
 
