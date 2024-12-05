@@ -1,8 +1,5 @@
 ### Hi there I'm Ethel Ogallo👋
 
-<div align = 'center'>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNiZWZwZXVnMGJmbW05eGd5cmlvYjhoMXU5MHppa2RqcmZhZWUzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uizPoFUVU1R2hTLTPF/giphy.gif" width="480" height="476" />
-</div>  
 
 - 🔭 I’m currently working on **Advance Remote Sensing**
 - 🌱 I’m currently learning  **python**
