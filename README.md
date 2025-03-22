@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Advance Remote Sensing**
 - 🌱 I’m currently learning  **python**
-- 👯 I’m looking to collaborate on **data science**
+- 👯 I’m looking to collaborate on **Geodata science**
 - 🤔 I’m looking for help with **AI for Earth Observation**
 - 💬 Ask me about **Data Visualization**
 
